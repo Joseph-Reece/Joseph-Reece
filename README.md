@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-reece&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-reece" /> </p>
 
 
-- 🔭 I’m currently working on [A Linkedin clone](https://github.com/Joseph-Reece/Linkedin-clone)
+- 🔭 I’m currently working on [Ruby on Rails](https://github.com/Joseph-Reece/spree_ig_extension)
+
+- 🌱 I’m currently learning **Rails, Figma, Graphql**
+
+- 👨‍💻 All of my projects are available at [joseph-ndirangu.netlify.app](joseph-ndirangu.netlify.app)
 
 - 💬 Ask me about **E-commerce development, Front-End development**
 
