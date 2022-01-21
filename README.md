@@ -59,3 +59,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph-reece&show_icons=true&locale=en&layout=compact" alt="joseph-reece" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-reece&show_icons=true&locale=en" alt="joseph-reece" /></p>
+
+
+<a href="https://app.daily.dev/Joseph_Ndirangu"><img src="https://api.daily.dev/devcards/5e2b93ed611647bca73ba2908dac3502.png?r=5d1" width="400" alt="Joseph Ndirangu's Dev Card"/></a>
