@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-reece&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-reece" /> </p>
 
 
-- 🔭 I’m currently working on [Ruby on Rails](https://github.com/Joseph-Reece/spree_ig_extension)
-
-- 🌱 I’m currently learning **Rails, Figma, Graphql**
+- 🌱 I’m currently learning **Flutter, Dart, Graphql**
 
 - 👨‍💻 All of my projects are available at [joseph-ndirangu.netlify.app](joseph-ndirangu.netlify.app)
 
@@ -28,6 +26,8 @@
 <div align="left" >
     <!-- Reactjs -->
     <a href="https://reactjs.org/" target="_blank" padding="5px"> <img src="https://img.shields.io/badge/-Reactjs-%230D1117?style=flat-square&logo=react" alt="react"  height="40"/> </a> 
+<!--      https://img.shields.io/badge/CodeIgniter-PHP-orange-->
+    <a href="https://codeigniter.com/" target="_blank" padding="5px"> <img src="https://img.shields.io/badge/-CodeIgniter-PHP-orange-%230D1117?style=flat-square&logo=react" alt="react"  height="40"/> </a> 
       <!-- Redux -->
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/-Redux-%230D1117?style=flat-square&logo=redux" alt="redux" height="40"/> </a> 
     <!-- Sass -->
