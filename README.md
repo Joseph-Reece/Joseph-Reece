@@ -26,8 +26,6 @@
 <div align="left" >
     <!-- Reactjs -->
     <a href="https://reactjs.org/" target="_blank" padding="5px"> <img src="https://img.shields.io/badge/-Reactjs-%230D1117?style=flat-square&logo=react" alt="react"  height="40"/> </a> 
-<!--      https://img.shields.io/badge/CodeIgniter-PHP-orange-->
-    <a href="https://codeigniter.com/" target="_blank" padding="5px"> <img src="https://img.shields.io/badge/-CodeIgniter-PHP-orange-%230D1117?style=flat-square&logo=react" alt="react"  height="40"/> </a> 
       <!-- Redux -->
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/-Redux-%230D1117?style=flat-square&logo=redux" alt="redux" height="40"/> </a> 
     <!-- Sass -->
