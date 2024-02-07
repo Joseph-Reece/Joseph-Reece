@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-reece&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-reece" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter, Dart, Graphql**
+- 🌱 I’m currently Working on **Business Central 365 ERP Development**
 
-- 👨‍💻 All of my projects are available at [joseph-ndirangu.netlify.app](joseph-ndirangu.netlify.app)
-
-- 💬 Ask me about **E-commerce development, Front-End development**
+- 💬 Ask me about **E-commerce development, Front-End development, ERP Solutions, Point of Sale Solutions**
 
 - 📫 How to reach me **reecesoftwares@gmail.com**
 
