@@ -1,18 +1,26 @@
 <h1 align="center">Hi 👋, I'm Joseph Ndirangu</h1>
-<h3 align="center">A Tech enthusiast and passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="center">About Me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-reece&label=Profile%20views&color=0e75b6&style=flat" alt="joseph-reece" /> </p>
 
+<p align="left">
+    I am a versatile developer with expertise in frontend and backend technologies, specializing in JavaScript (React), CSS (Tailwind, Bootstrap), AL (Business Central 365), PHP (Laravel, CodeIgniter), and Flutter. With a passion for crafting elegant solutions, I thrive in dynamic environments where creativity and innovation are valued.
+</p>
+<h3 align="left">What I Do</h3>
+- Frontend and Backend Development: I love creating seamless user experiences by combining cutting-edge frontend technologies with robust backend solutions.
+- Business Central 365 ERP Development: As an ERP developer, I excel in customizing and extending Business Central 365 using AL, ensuring businesses have tailored solutions that meet their unique needs.
+-Mobile Development: I enjoy building cross-platform mobile applications using Flutter, delivering high-performance and feature-rich experiences to users across different devices.
 
-- 🌱 I’m currently Working on **Business Central 365 ERP Development**
+My Goals
+I'm here to collaborate on exciting open-source projects, connect with fellow developers, and contribute to the thriving developer community. Whether it's fixing bugs, adding features, or sharing insights, I'm committed to making a positive impact and learning from others along the way.
 
-- 💬 Ask me about **E-commerce development, Front-End development, ERP Solutions, Point of Sale Solutions**
-
-- 📫 How to reach me **reecesoftwares@gmail.com**
-
-- ⚡ Fun fact **I am still Editing this!**
-
-<h3 align="left">Languages and Tools:</h3>
+What You'll Find Here
+Projects: Explore my repositories to find a diverse range of projects showcasing my skills and interests. From frontend applications built with React to backend solutions powered by Laravel, each project reflects my dedication to craftsmanship and innovation.
+Contributions: Dive into my contributions to open-source projects, where I strive to make meaningful contributions that benefit the community and foster collaboration.
+ERP Development: Discover my expertise in Business Central 365 ERP development through specialized repositories and code snippets, demonstrating my proficiency in AL and ERP customization.
+Portfolio: Use my GitHub profile as a portfolio to gain insights into my work, explore project documentation, and get a glimpse of my development journey.
+Let's Connect!
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me, whether it's to discuss potential projects, share insights, or simply connect with a fellow developer. Let's build something amazing together!
 
 <h4 align="left">My Tech Stacks</h4>
 <div align="left">
