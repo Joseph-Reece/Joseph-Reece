@@ -15,8 +15,8 @@
 I'm here to collaborate on exciting open-source projects, connect with fellow developers, and contribute to the thriving developer community. Whether it's fixing bugs, adding features, or sharing insights, I'm committed to making a positive impact and learning from others along the way.
 
 <h3 align="left">What You'll Find Here</h3>
-Projects: Explore my repositories to find a diverse range of projects showcasing my skills and interests. From frontend applications built with React to backend solutions powered by Laravel, each project reflects my dedication to craftsmanship and innovation.
-Contributions: Dive into my contributions to open-source projects, where I strive to make meaningful contributions that benefit the community and foster collaboration.
+Projects: Explore my repositories to find a diverse range of projects showcasing my skills and interests. From frontend applications built with React to backend solutions powered by Laravel, each project reflects my dedication to craftsmanship and innovation.<br>
+Contributions: Dive into my contributions to open-source projects, where I strive to make meaningful contributions that benefit the community and foster collaboration.<br>
 ERP Development: Discover my expertise in Business Central 365 ERP development through specialized repositories and code snippets, demonstrating my proficiency in AL and ERP customization.
 Portfolio: Use my GitHub profile as a portfolio to gain insights into my work, explore project documentation, and get a glimpse of my development journey.
 Let's Connect!
