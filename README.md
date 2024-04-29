@@ -11,10 +11,10 @@
 - Business Central 365 ERP Development: As an ERP developer, I excel in customizing and extending Business Central 365 using AL, ensuring businesses have tailored solutions that meet their unique needs.
 -Mobile Development: I enjoy building cross-platform mobile applications using Flutter, delivering high-performance and feature-rich experiences to users across different devices.
 
-My Goals
+<h3 align="left">My Goals </h3>
 I'm here to collaborate on exciting open-source projects, connect with fellow developers, and contribute to the thriving developer community. Whether it's fixing bugs, adding features, or sharing insights, I'm committed to making a positive impact and learning from others along the way.
 
-What You'll Find Here
+<h3 align="left">What You'll Find Here</h3>
 Projects: Explore my repositories to find a diverse range of projects showcasing my skills and interests. From frontend applications built with React to backend solutions powered by Laravel, each project reflects my dedication to craftsmanship and innovation.
 Contributions: Dive into my contributions to open-source projects, where I strive to make meaningful contributions that benefit the community and foster collaboration.
 ERP Development: Discover my expertise in Business Central 365 ERP development through specialized repositories and code snippets, demonstrating my proficiency in AL and ERP customization.
