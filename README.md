@@ -7,7 +7,7 @@
 I am a software engineer focused on building enterprise-class ERP systems and automations. I design, customize, and integrate Business Central and ERPNext solutions that drive measurable business outcomes through business process automation, data integrations, and scalable architecture.
 
 
-## ENTERPRISE SYSTEMS & BUSINESS PROCESS AUTOMATION (LOUD & CLEAR)
+## ENTERPRISE SYSTEMS & BUSINESS PROCESS AUTOMATION
 
 **I BUILD ENTERPRISE ERP SOLUTIONS — SPECIALIZING IN MICROSOFT DYNAMICS 365 BUSINESS CENTRAL, ERPNext, AND END-TO-END BUSINESS PROCESS AUTOMATION.**
 
@@ -74,6 +74,5 @@ I aim to grow as a specialist in enterprise ERP architecture and process automat
 I'm always open to collaboration, ERP transformations, and automation projects. If you'd like to work together or see more of my enterprise work, check out my repositories or reach out:
 
 - GitHub: https://github.com/joseph-reece
-- Email: (add your email here)
-
+- Email: ndirangujkariuki@gmail.com
 Thanks for visiting — if your organization needs enterprise ERP expertise or business process automation, I'm ready to help! 🚀
